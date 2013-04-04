@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("KeekDownloader")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Download Keek videos by ID")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Hewlett-Packard")]
+[assembly: AssemblyCompany("6Degrees Technologies")]
 [assembly: AssemblyProduct("KeekDownloader")]
-[assembly: AssemblyCopyright("Copyright © Hewlett-Packard 2013")]
+[assembly: AssemblyCopyright("Copyright © 6Degrees Technologies 2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

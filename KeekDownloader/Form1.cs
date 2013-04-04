@@ -78,5 +78,23 @@ namespace KeekDownloader
                 }
                 
         }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            try
+            {
+                System.Diagnostics.Process.Start("mailto:mohannad.otaibi@gmail.com");
+            }
+            catch { }
+        }
+
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            try
+            {
+                System.Diagnostics.Process.Start("http://www.twitter.com/BuFai7an");
+            }
+            catch { }
+        }
     }
 }
